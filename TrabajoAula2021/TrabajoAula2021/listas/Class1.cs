@@ -1,25 +1,11 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace TrabajoAula2021
+namespace TrabajoAula2021.listas
 {
-    static class Program
-    {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-           // Application.Run(new Form1());
-        }
-    }
     public class Class1
     {
         int i;
@@ -32,14 +18,14 @@ namespace TrabajoAula2021
             carga();
             imprimir_lista();
             ingrese_dato();
-             ingrese_dato();
+            /// ingrese_dato();
             borrar();
             imprimir_lista();
         }
 
         public void ingrese_dato()
         {
-            for (i = 0; i < 3; i++)
+            for(i=0; i<3; i++)
             {
                 numero = Int32.Parse(Console.ReadLine());
                 Listas.Add(numero);
@@ -65,13 +51,13 @@ namespace TrabajoAula2021
 
         public void imprimir_lista()
         {
-            // int contador = 0;
-            foreach (int numero in Listas)
+           // int contador = 0;
+            foreach(int numero in Listas)
             {
 
-                Console.WriteLine(numero + "\n");
+                Console.WriteLine(numero+ "\n");
 
-                // contador++;
+               // contador++;
 
             }
         }
