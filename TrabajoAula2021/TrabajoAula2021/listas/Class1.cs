@@ -9,7 +9,6 @@ namespace TrabajoAula2021.listas
     public class Class1
     {
         int i;
-        int cont = 0;
         int numero;
         List<int> Listas = new List<int>();
 
@@ -18,7 +17,6 @@ namespace TrabajoAula2021.listas
             carga();
             imprimir_lista();
             ingrese_dato();
-            /// ingrese_dato();
             borrar();
             imprimir_lista();
         }

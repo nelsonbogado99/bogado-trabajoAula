@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Nelson\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nelson\\Documents\\Trbajo de LP2\\TrabajoAula2021\\TrabajoAula2021\\TrabajoAula2021.csproj",
-      "projectName": "TrabajoAula2021",
-      "projectPath": "C:\\Users\\Nelson\\Documents\\Trbajo de LP2\\TrabajoAula2021\\TrabajoAula2021\\TrabajoAula2021.csproj",
+      "projectUniqueName": "C:\\Users\\Nelson\\Desktop\\LP2\\Trabajo.Lista\\Trabajo.Lista\\Trabajo.Lista.csproj",
+      "projectName": "Trabajo.Lista",
+      "projectPath": "C:\\Users\\Nelson\\Desktop\\LP2\\Trabajo.Lista\\Trabajo.Lista\\Trabajo.Lista.csproj",
       "packagesPath": "C:\\Users\\Nelson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nelson\\Documents\\Trbajo de LP2\\TrabajoAula2021\\TrabajoAula2021\\obj\\",
+      "outputPath": "C:\\Users\\Nelson\\Desktop\\LP2\\Trabajo.Lista\\Trabajo.Lista\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net5.0-windows7.0": {
-        "targetAlias": "net5.0-windows",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,9 +58,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"

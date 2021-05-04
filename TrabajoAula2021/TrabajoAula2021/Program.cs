@@ -75,8 +75,5 @@ namespace TrabajoAula2021
 
             }
         }
-
-
-
     }
 }

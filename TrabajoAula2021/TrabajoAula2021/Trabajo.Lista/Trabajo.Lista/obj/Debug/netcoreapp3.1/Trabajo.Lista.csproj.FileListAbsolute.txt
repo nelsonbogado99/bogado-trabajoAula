@@ -1,0 +1,13 @@
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\bin\Debug\netcoreapp3.1\Trabajo.Lista.exe
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\bin\Debug\netcoreapp3.1\Trabajo.Lista.deps.json
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\bin\Debug\netcoreapp3.1\Trabajo.Lista.runtimeconfig.json
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\bin\Debug\netcoreapp3.1\Trabajo.Lista.runtimeconfig.dev.json
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\bin\Debug\netcoreapp3.1\Trabajo.Lista.dll
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\bin\Debug\netcoreapp3.1\Trabajo.Lista.pdb
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.csprojAssemblyReference.cache
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.AssemblyInfoInputs.cache
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.AssemblyInfo.cs
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.dll
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.pdb
+C:\Users\Nelson\Desktop\LP2\Trabajo.Lista\Trabajo.Lista\obj\Debug\netcoreapp3.1\Trabajo.Lista.genruntimeconfig.cache
